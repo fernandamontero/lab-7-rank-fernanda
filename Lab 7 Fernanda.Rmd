@@ -11,3 +11,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Hi this is Fernanda 
 How is it going
+it going chill
